@@ -1,0 +1,26 @@
+Solution 1 with Features 1, 2, 3, 4
+
+
+SVC_classifier : 
+		Accuracy % : 66.49
+		Precision % : 47.2504004271
+		Recall % : 56.279809221
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+LogisticRegression_classifier : 
+		Accuracy % : 64.08
+		Precision % : 31.2600106781
+		Recall % : 53.5191956124
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+SGDClassifier_classifier : 
+		Accuracy % : 61.46
+		Precision % : 4.27122263748
+		Recall % : 37.3831775701
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+LinearSVC_classifier : 
+		Accuracy % : 64.16
+		Precision % : 30.485851575
+		Recall % : 53.8171536287
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
